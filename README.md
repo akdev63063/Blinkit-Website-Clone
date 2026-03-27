@@ -1,6 +1,6 @@
-# Blinkit-Website-Clone
+📦 Blinkit Website Clone (HTML & CSS)
+
 A responsive front-end clone of the Blinkit grocery delivery website built using only HTML and CSS. This project focuses on recreating the UI/UX design of a modern quick-commerce platform.
-.
 
 🚀 Features
 🛒 Clean and modern homepage design
